@@ -3,6 +3,7 @@ Install Magento2 with Composer
 
 # Install Composer
 1.1) 	curl -sS https://getcomposer.org/installer | php 
+
 1.2) 	sudo mv composer.phar /usr/local/bin/composer
 
 # Create Magento 2 Dir
