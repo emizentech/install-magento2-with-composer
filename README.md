@@ -26,5 +26,9 @@ bin/magento setup:install --backend-frontname="EmizenTech" --db-host=localhost -
 2.6)  bin/magento setup:static-content:deploy
 
 # For Deploy Sample Data 
-2.7) bin/magento sampledata:deploy
+2.7) 
+
+     bin/magento sampledata:deploy
+
+
      bin/magento setup:upgrade
